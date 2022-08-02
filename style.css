@@ -1,1 +1,17 @@
-
+body{
+  background-color: cornsilk;
+  color: black;
+  font-family: Times New Roman, Times, serif;
+  margin: 5% ;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 2px;
+  
+  padding: 5px;
+}
+header{
+  background-color: darkcyan;
+  color: white;
+}
