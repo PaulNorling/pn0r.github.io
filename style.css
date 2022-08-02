@@ -12,5 +12,6 @@ body{
 header{
   background-color: darkcyan;
   color: white;
-  border-bottom: 5px solid lightskyblue;
   padding: 10px;}
+h3{
+  border-bottom: 2px solid darkcyan;}
